@@ -54,7 +54,6 @@ Promise.all([
   })
 
 function ready([datapointsCimbria, datapointsCimmeria]) {
-
   // console.log(datapointsCimbria)
 
   /* Add in your temperature circles */
