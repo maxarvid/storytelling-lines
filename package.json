@@ -30,10 +30,12 @@
     "prettier": "^1.16.4"
   },
   "dependencies": {
+    "acorn": "^6.1.1",
     "babel-preset-env": "^1.7.0",
     "d3": "^5.9.1",
     "jest": "^23.6.0",
     "merge": "^1.2.1",
-    "node-fetch": "^2.3.0"
+    "node-fetch": "^2.3.0",
+    "yaml": "^1.6.0"
   }
 }
